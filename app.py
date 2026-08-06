@@ -61,10 +61,6 @@ def home():
     </html>
     """
 
-if __name__ == "__main__":
-    import os
-
-import os
 
 import os
 
